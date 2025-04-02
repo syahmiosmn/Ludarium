@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6Z94eny158IJtrpemSIoVnTtSaZdDhCDF6ore2EmAeg=",
+  "Source": "Ludarium.API",
+  "BasePath": "_content/Ludarium.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
