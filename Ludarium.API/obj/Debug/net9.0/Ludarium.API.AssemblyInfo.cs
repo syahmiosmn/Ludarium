@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ludarium.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a276581b6632cf7c9b95ef04b86b45e6b8adfd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b26ca3e3457a24d861ef0da125f0ac397260351")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ludarium.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ludarium.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

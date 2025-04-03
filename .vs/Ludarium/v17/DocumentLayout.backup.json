@@ -9,6 +9,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|c:\\users\\syahm\\ludarium\\ludarium.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|solutionrelative:ludarium.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|c:\\users\\syahm\\ludarium\\ludarium.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|solutionrelative:ludarium.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|c:\\users\\syahm\\ludarium\\ludarium.api\\models\\memorynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|solutionrelative:ludarium.api\\models\\memorynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|c:\\users\\syahm\\ludarium\\ludarium.api\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|solutionrelative:ludarium.api\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|c:\\users\\syahm\\ludarium\\ludarium.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BA1FC0B-8F4D-4E3B-9E26-1F6653F2EE6C}|Ludarium.API\\Ludarium.API.csproj|solutionrelative:ludarium.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ludarium.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ludarium.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T21:00:58.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemoryNote.cs",
+              "DocumentMoniker": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Models\\MemoryNote.cs",
+              "RelativeDocumentMoniker": "Ludarium.API\\Models\\MemoryNote.cs",
+              "ToolTip": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Models\\MemoryNote.cs",
+              "RelativeToolTip": "Ludarium.API\\Models\\MemoryNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:00:42.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Ludarium.API\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Models\\Game.cs",
+              "RelativeToolTip": "Ludarium.API\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:00:41.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ludarium.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ludarium.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:00:37.128Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +92,7 @@
               "RelativeDocumentMoniker": "Ludarium.API\\Controllers\\GameController.cs",
               "ToolTip": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Controllers\\GameController.cs",
               "RelativeToolTip": "Ludarium.API\\Controllers\\GameController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T18:12:49.195Z",
               "EditorCaption": ""
@@ -41,7 +105,7 @@
               "RelativeDocumentMoniker": "Ludarium.API\\Program.cs",
               "ToolTip": "C:\\Users\\syahm\\Ludarium\\Ludarium.API\\Program.cs",
               "RelativeToolTip": "Ludarium.API\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T18:12:26.34Z",
               "EditorCaption": ""

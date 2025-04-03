@@ -131,4 +131,5 @@ C:\Users\syahm\Ludarium\Ludarium.API\obj\Debug\net9.0\refint\Ludarium.API.dll
 C:\Users\syahm\Ludarium\Ludarium.API\obj\Debug\net9.0\Ludarium.API.pdb
 C:\Users\syahm\Ludarium\Ludarium.API\obj\Debug\net9.0\Ludarium.API.genruntimeconfig.cache
 C:\Users\syahm\Ludarium\Ludarium.API\obj\Debug\net9.0\ref\Ludarium.API.dll
+C:\Users\syahm\Ludarium\Ludarium.API\obj\Debug\net9.0\Ludarium.API.sourcelink.json
 C:\Users\syahm\Ludarium\Ludarium.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
